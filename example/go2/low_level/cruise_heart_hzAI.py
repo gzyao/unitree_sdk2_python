@@ -8,7 +8,11 @@
 - 冷却时间（heart_cooldown）与“比心后必须再次运动”双重条件，避免频繁触发
 - 使用线程锁保护回调与主循环共享状态，避免并发竞态
 """
+"""
+你好 姚光状
 
+
+"""
 import time
 import sys
 import math
